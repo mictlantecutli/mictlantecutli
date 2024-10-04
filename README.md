@@ -37,7 +37,7 @@ This school project at BYU-Idaho focused on creating a website with objectives t
 
 ## Let's Connect!
 
-- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/moises-parra-lozano)
+- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/moises-parra-lozano )
 - Here is my [Twitter](Your Twitter Profile Link) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
