@@ -39,7 +39,7 @@ This school project at BYU-Idaho focused on creating a website with objectives t
 
 - [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-parra-lozano)
 
-- [![](https://img.shields.io/badge/Contact_Me_in_the_Infernal_World_of_Code-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moisesparra82@hotmail.com)
+- [![](https://img.shields.io/badge/Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moisesparra82@hotmail.com)
 
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+Feel free to explore my repositories and don't hesitate to reach out. Code Your Way Through the Infinite Realms! 🌌
