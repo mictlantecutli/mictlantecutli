@@ -27,13 +27,12 @@ Curious why my username is "glifograma"? Feel free to ask!
 
 
 ## Projects
-
-- **Web Application for Artisans**
-This school project at BYU-Idaho involved collaborating with colleagues from the Philippines, Peru, and the United States to develop a web application for artisans. I used Next.js for structured components, implemented HTTP requests with PostgreSQL, and created controllers in Laravel while troubleshooting data fetching issues and coordinating tasks via GitHub’s Kanban board.
-- **API REST 'Quick Menu'**
-This school project at BYU-Idaho focused on developing a RESTful API. Key objectives included implementing HTTP requests, creating API documentation, integrating GraphQL, and performing testing with Supertest.
-- **Página Web 'Infinite Universe'**
-This school project at BYU-Idaho focused on creating a website with objectives that included utilizing third-party APIs, implementing CSS animations, organizing code into modules, and managing both static and dynamic markup.
+**Infinite Universe**
+- Web application that keeps astronomy enthusiasts up to date with the latest news about the universe. 
+- Integrated with NASA API and NYTimes API. 
+- Technologies: Node.js 
+- Deployment: Hosted at GitHub https://mictlantecutli.github.io/project_with_api/build/index.html 
+- GitHub repo: https://github.com/mictlantecutli/project_with_api 
 
 ## Let's Connect!
 
